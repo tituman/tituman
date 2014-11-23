@@ -1,6 +1,6 @@
 # 1 Room (13m2 or 19m2 or 27m2) in Linz apartment (165m2) for rent
 
-![apartment.pdf](http://tituman.github.io/tituman/docs/Goetestr30.pdf)
+![apartment.pdf](http://tituman.github.io/tituman/docs/Goetestr30.pdf?raw=true)
 
 ![location](http://tituman.github.io/tituman/docs/qrcode.jpeg?raw=true)
 
