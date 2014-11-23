@@ -2,6 +2,8 @@
 
 [apartment.pdf](http://tituman.github.io/tituman/docs/Goetestr30.pdf)
 
+[location](http://tituman.github.io/tituman/docs/qrcode.jpeg)
+
 ## About us and the apartment
 We are two international students (27, 29) from the FH-Wels (Automatisierungstechnik, AT), now employed in Linz, but still active at the FH, and we are looking for a third person (preferably international student) to take one of the three rooms in our apartment. 
 
