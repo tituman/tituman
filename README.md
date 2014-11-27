@@ -37,12 +37,12 @@ Preferably your have an international background, you are not very shy, and like
 
 - 19m<sup>2</sup> 536.60 &euro;/month, window facing south
 
-- 27m<sup>2</sup> 606.81 &euro;/moth, windows facing north, two doors
+- 27m<sup>2</sup> 606.81 &euro;/month, windows facing north, two doors
 
 one of these three rooms will be available for you. It will not be furnished (we could lend you a bed)
 
 
 
-
-[link-to-this-page](http://tituman.github.io/tituman/)
-![link](http://tituman.github.io/tituman/docs/qrcode.png)
+---|---
+[link-to-this-page](http://tituman.github.io/tituman/) | [link-to-this-google-maps](https://www.google.at/maps/@48.297209,14.2963567,19z?hl=en)
+![link](http://tituman.github.io/tituman/docs/qrcode.png =150x) | ![link](http://tituman.github.io/tituman/docs/qrcode.jpeg =150x)
