@@ -42,8 +42,8 @@ Preferably your have an international background, you are not very shy, and like
 one of these three rooms will be available for you. It will not be furnished (we could lend you a bed)
 
 
-[[ http://tituman.github.io/tituman/docs/qrcode.jpeg | height = 100px ]]
+<a href="url"><img src="http://tituman.github.io/tituman/docs/qrcode.png" align="center" height="100"></a>
 
 [link-to-this-page](http://tituman.github.io/tituman/) | [link-to-google-maps](https://www.google.at/maps/@48.297209,14.2963567,19z?hl=en)
 ---|---
-[[ http://tituman.github.io/tituman/docs/qrcode.png | height = 100px ]] | ![link](http://tituman.github.io/tituman/docs/qrcode.jpeg)
+<a href="url"><img src="http://tituman.github.io/tituman/docs/qrcode.png" align="center" height="150"></a> | <a href="url"><img src="http://tituman.github.io/tituman/docs/qrcode.jpeg" align="left" height="200"></a>
