@@ -44,6 +44,6 @@ one of these three rooms will be available for you. It will not be furnished (we
 
 
 
-[link-to-this-page](http://tituman.github.io/tituman/) | [link-to-this-google-maps](https://www.google.at/maps/@48.297209,14.2963567,19z?hl=en)
+[link-to-this-page](http://tituman.github.io/tituman/) | [link-to-google-maps](https://www.google.at/maps/@48.297209,14.2963567,19z?hl=en)
 ---|---
-![link](http://tituman.github.io/tituman/docs/qrcode.png) | ![link](http://tituman.github.io/tituman/docs/qrcode.jpeg =150x)
+![link](http://tituman.github.io/tituman/docs/qrcode.png =100x20) | ![link](http://tituman.github.io/tituman/docs/qrcode.jpeg)
