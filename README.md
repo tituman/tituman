@@ -3,7 +3,10 @@
 ![apartment.pdf](http://tituman.github.io/tituman/docs/Goetestr30.png)
 
 ## Overview
-- [13m<sup>2</sup> &rarr; 485.64] OR [19m<sup>2</sup>&rarr;536.60] OR [27m<sup>2</sup>&rarr;606.81] eur/month (everything included: heating, internet, TV)
+- &euro;/month (everything included: heating, internet, TV)
+  - 13m<sup>2</sup>&rarr;485.64&euro;
+  - OR 19m<sup>2</sup>&rarr;536.60&euro;
+  - OR 27m<sup>2</sup>&rarr;606.81&euro;
 - garage, basement storage space
 - kitchen, washing machine, dishwasher
 - 5min to the train station (+12min to Wels by train)
