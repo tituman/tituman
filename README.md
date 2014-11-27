@@ -15,11 +15,11 @@
 - available from March '15
 
 ## About us and the apartment
-We are two international students (27, 29) from the FH-Wels (Automatisierungstechnik, AT), now employed in Linz, but still active at the FH, and we are looking for a third person (preferably international student) to take one of the three rooms in our apartment. 
+We are two international students/alumni (27, 29) from the FH-Wels (Automatisierungstechnik, AT), now employed in Linz, but still active at the FH, and we are looking for a third person (preferably international student) to take one of the three rooms in our apartment. 
 
 The apartment has a big balcony (facing south) where we sometimes grill in the summer. We have a big living room where we can sit, watch TV, talk, read. The dining room is also quite big and at the moment we have turned it into a small electronics workshop. The kitchen is fully equipped with ceramic plates, dishwasher and normal appliances. We have a full bathroom with bathtub, 2 washbasins, washing machine, and a WC. Additionally there is a second separate "guest WC". All rooms have parquet floor (wooden), except for kitchen and entrance (tiles). During the week we both work in Linz and on weekends we might have some friends over or go out to the city, so we have a healthy balance of fun and responsibilities.
 
-### Safety deposit
+#### Safety deposit
 Like pretty much every apartment you rent in Austria, there is a safety deposit (German Kaution) and your share amounts to 1166.67&euro;
 
 ## Location
@@ -40,6 +40,8 @@ Preferably your have an international background, you are not very shy, and like
 - 27m<sup>2</sup> 606.81 &euro;/month, windows facing north, two doors
 
 one of these three rooms will be available for you. It will not be furnished (we could lend you a bed)
+
+If you are interested, please feel free to write us an email: WGgoethe30@gmail.com we would like to hear from you!
 
 
 [link-to-this-page](http://tituman.github.io/tituman/) | [link-to-google-maps](https://www.google.at/maps/@48.297209,14.2963567,19z?hl=en)
