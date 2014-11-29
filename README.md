@@ -46,4 +46,4 @@ If you are interested, please feel free to write us an email: WGgoethe30@gmail.c
 
 [link-to-this-page](http://tituman.github.io/tituman/) | [link-to-google-maps](https://www.google.at/maps/@48.297209,14.2963567,19z?hl=en)
 ---|---
-<a href="url"><img src="http://tituman.github.io/tituman/docs/qrcode.png" align="center" height="150"></a> | <a href="url"><img src="http://tituman.github.io/tituman/docs/qrcode.jpeg" align="left" height="200"></a>
+<img src="http://tituman.github.io/tituman/docs/qrcode.png" align="center" height="150"> | <img src="http://tituman.github.io/tituman/docs/qrcode.jpeg" align="left" height="200">
