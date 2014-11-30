@@ -44,6 +44,6 @@ one of these three rooms will be available for you. It will not be furnished (we
 If you are interested, please feel free to write us an email: WGgoethe30@gmail.com we would like to hear from you!
 
 
-[link-to-this-page](http://tituman.github.io/tituman/) | [link-to-google-maps](https://www.google.at/maps/@48.297209,14.2963567,19z?hl=en)
+[link-to-this-page](http://tituman.github.io/tituman/) | [link-to-google-maps](https://www.google.at/maps/place/Goethestraße+30,+4020+Linz/@48.297191,14.2964186,19z/data=!3m1!4b1!4m2!3m1!1s0x4773979180a408e9:0x913ad712cf1144b9?hl=en)
 ---|---
 <img src="http://tituman.github.io/tituman/docs/qrcode.png" align="center" height="150"> | <img src="http://tituman.github.io/tituman/docs/qrcode.jpeg" align="left" height="200">
