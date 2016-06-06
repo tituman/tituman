@@ -1,19 +1,16 @@
-# 1 Zimmer (13m<sup>2</sup> oder 19m<sup>2</sup> oder 27m<sup>2</sup>) in Linzer WG (165m<sup>2</sup>) zu vermieten
+# 1 Zimmer (27m<sup>2</sup>) in Linzer WG (165m<sup>2</sup>) zu vermieten
 [English Version (click here)](http://tituman.github.io/tituman/indexEN.html)
 ![apartment.pdf](http://tituman.github.io/tituman/docs/Goetestr30.png)
 
 ## &Uuml;bersicht
-- &euro;/Monat (alles inklusive: Heizung, Internet, Fernseher)
-  - 13m<sup>2</sup> &rarr; 485.64&euro;
-  - ODER 19m<sup>2</sup> &rarr; 536.60&euro;
-  - ODER 27m<sup>2</sup> &rarr; 606.81&euro;
+- 27m<sup>2</sup> &rarr; 469,40&euro;/Monat (alles inklusive: Heizung, Internet, Fernseher)
 - Garage, Kellerabteil
 - K&uuml;che, Waschmaschine, Sp&uuml;lmaschine
 - 5min zum Linz Hbf (+12min bis Wels mit dem Zug)
 - S&uuml;dseitiger Balkon
 - Parkett Boden
-- Frei ab M&auml;rz '15
-- Kaution 1166.67&euro;
+- Frei ab Juni '16
+- Kaution 875&euro;
 
 ## &Uuml;ber uns und die WG
 Wir sind zwei internationale Studenten/Alumni (27, 29) von der FH-Wels (Automatisierungstechnik, AT), nun auch berufst&auml;tig in Linz, dennoch aktiv an der FH. Wir suchen eine dritte Person (M/W/&Sigma;) dass eines der 3 Zimmer nehmen m&ouml;chte.
