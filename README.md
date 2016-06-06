@@ -1,46 +1,41 @@
-# 1 Zimmer (27m<sup>2</sup>) in Linzer WG (165m<sup>2</sup>) zu vermieten
-[English Version (click here)](http://tituman.github.io/tituman/indexEN.html)
+# 1 Room (27m<sup>2</sup>) in Linz apartment (165m<sup>2</sup>) for rent
+[apartment.pdf](http://tituman.github.io/tituman/docs/Goetestr30.pdf)
 ![apartment.pdf](http://tituman.github.io/tituman/docs/Goetestr30.png)
+Note: the avalable room is the one marked with 27.16m2, and the room marked "Esszimmer" is also a bedroom.
 
-## &Uuml;bersicht
-- 27m<sup>2</sup> &rarr; 469,40&euro;/Monat (alles inklusive: Heizung, Internet, Fernseher)
-- Garage, Kellerabteil
-- K&uuml;che, Waschmaschine, Sp&uuml;lmaschine
-- 5min zum Linz Hbf (+12min bis Wels mit dem Zug)
-- S&uuml;dseitiger Balkon
-- Parkett Boden
-- Frei ab Juni '16
-- Kaution 875&euro;
+## Overview
+- 27m<sup>2</sup> &rarr; 469,40&euro;/month (everything included: heating, internet, TV)
+- garage, basement storage space
+- kitchen, washing machine, dishwasher
+- 5min to the train station (+12min to Wels by train)
+- south facing balcony
+- parquet floor
+- available from June '16
 
-## &Uuml;ber uns und die WG
-Wir sind zwei internationale Studenten/Alumni (27, 29) von der FH-Wels (Automatisierungstechnik, AT), nun auch berufst&auml;tig in Linz, dennoch aktiv an der FH. Wir suchen eine dritte Person (M/W/&Sigma;) dass eines der 3 Zimmer nehmen m&ouml;chte.
+## About us and the apartment
+We are: an Mexican alumnus from the FH-Wels (Automatisierungstechnik, AT), now employed in Linz, a Norwegian PhD Student at the JKU, and a normal guy from Ecuador, currently emplyed in Linz. We are looking for a fourth person to take a big room that has recently become free.
 
-Es gibt einen grossen Balkon (S&uuml;dseite) wo wir ab und zu grillen im Sommer. Wir haben ein riesiges Wohnraum wo wir gerne fernsehen, Filme schauen, Internet surfen, diskutieren, lesen, stricken, usw. Das Esszimmer ist auch riesig und momentan haben wir eine art Elektronik/EDV/Bastelerei Workshop aufgebaut, (dass jederzeit wieder in Esszimmer umgewandelt werden kann). Die K&uuml;che haben wir vor 2 Jahren gekauft und ist komplett ausgestattet: Ceran Platten, Sp&uuml;lmaschine, und normale K&uuml;chenger&auml;te (Toaster, Mikrowelle, Entsafter, kleiner und grosser Offen, ...). Das Bad hat eine Badewanne, 2 Waschbecken, WC. Dazu gibt es ein zweites "G&auml;ste-WC". All die Schlafzimmer-, Wohnzimmer-, Esszimmerb&ouml;den sind Parkett, K&uuml;che, Bad, WC und Diele sind Fliese. W&auml;hrend der Woche wir arbeiten beide in Linz und an Wochenenden wir laden Freunde ein oder wir gehen fort in der Stadt, wir haben ein ausgeglichenes Balance aus Spass und Verantwortungen.
+The apartment has a big balcony (facing south) where we sometimes grill in the summer. We have a big living room where we can sit, watch TV, talk, read. The kitchen is fully equipped with ceramic plates, dishwasher and normal appliances. We have a full bathroom with bathtub, 2 washbasins, a washing machine, and a WC. Additionally there is a second separate "guest WC". All rooms have parquet floor (wooden), except for the kitchen and the entrance (tiles). During the week we both work in Linz and on weekends we might have some friends over or go out to the city, so we have a healthy balance of fun and responsibilities.
 
-In dieser WG wird regelm&auml;ssig Deutsch, Englisch, Spanisch, Polnisch, und hin und wieder Franz&ouml;sisch gesprochen
+### Safety deposit
+Like pretty much every apartment you rent in Austria, there is a safety deposit (German Kaution) and your share amounts to 875&euro;
 
-## Lage
-Goethestrasse 30, im Linzer Stadtzentrum, mit sehr guten &Ouml;ffis Verbindungen, gleich neben Linz Hbf. Viele M&auml;rkte in unmittelbarer N&auml;he.
+## Location
+Goethestrasse 30, in Linz downtown, with very good public transport connections, close to the main train station. Many different supermarkets within walking distance.
 
-## &Ouml;ffis
-- Bus 12, 17, 19, 41, 43 (Haltestelle direkt vor der Haust&uuml;r)
-- 3 Gehminuten bis zur Goethekreuzung Tram Haltestelle (die letzte vor Linz Hbf).
+## Public transport
+- Bus 12 (bus stop directly in front of our door) takes you directly to the main train station in 5 mins(Linz Hbf).
+- 4 min walking to the Tram station Goethekreuzung (one before Linz Hbf).
 
-## &Uuml;ber dich
-Es w&auml;re cool wenn du auch einen internationalen Hintergrund hast, muss aber nicht sein. Du bist nicht sehr sch&uuml;chtern (oder ganz im Gegenteil) und magst etwas Gemeinschaftsleben. Du bist sauber und bringst meisten gute Laune mit.
+## About yourself
+Preferably your have an international background, you are not very shy, and like some community/social life. You are tidy and clean after yourself. You feel comfortable in the company of new people.
 
-## Freies Zimmer
-- 13m<sup>2</sup> 485.64 &euro;/Monat, s&uuml;dseitiges Fenster
+## Available room
+Really big 27m<sup>2</sup> 469,40 &euro;/month, windows facing north, two doors. At the moment it is separated by a wardrobe and bookshelves into a sleeping room and a studio (bookshelves, table, chair...). It will  be furnished (you can talk to the old guy if you want to bring your own stuff)
 
-- 19m<sup>2</sup> 536.60 &euro;/Monat, s&uuml;dseitiges Fenster
-
-- 27m<sup>2</sup> 606.81 &euro;/Monat, nordseitiges Fenster, zwei T&uuml;ren. Gegebenenfalls k&ouml;nnten wir das Zimmer in zwei teilen (mit einer Trennwand) und eine vierte Person einziehen lassen um Mietkosten zu senken.
-
-Eines dieser Zimmer ist f&uuml;r dich frei, du darfst es dir aussuchen. Es ist nicht m&ouml;bliert, aber du kannst etwas ausmachen mit dem vorherigen Mieter.
-
-Wenn du dich angesprochen f&uuml;hlst, schicke uns eine Email: WGgoethe30@gmail.com wir w&uuml;rden gerne von dir h&ouml;ren!
+If you are interested, please feel free to write us an email: WGgoethe30@gmail.com we would like to hear from you!
 
 
-[link-zu-dieser-Webseite](http://tituman.github.io/tituman/) | [link-zu-google-maps](https://www.google.at/maps/place/Goethestraße+30,+4020+Linz/@48.297191,14.2964186,19z/data=!3m1!4b1!4m2!3m1!1s0x4773979180a408e9:0x913ad712cf1144b9?hl=en)
+[link-to-this-page](http://tituman.github.io/tituman/) | [link-to-google-maps](https://www.google.at/maps/place/Goethestraße+30,+4020+Linz/@48.297191,14.2964186,19z/data=!3m1!4b1!4m2!3m1!1s0x4773979180a408e9:0x913ad712cf1144b9?hl=en)
 ---|---
 <img src="http://tituman.github.io/tituman/docs/qrcode.png" align="center" height="150"> | <img src="http://tituman.github.io/tituman/docs/qrcode.jpeg" align="left" height="200">
