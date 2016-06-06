@@ -10,10 +10,10 @@ Note: the avalable room is the one marked with 27.16m2, and the room marked "Ess
 - 5min to the train station (+12min to Wels by train)
 - south facing balcony
 - parquet floor
-- available from June '16
+- available from June '16 (can also be taken only for the summer)
 
 ## About us and the apartment
-We are: a Mexican alumnus from the FH-Wels (Automatisierungstechnik, AT), now employed in Linz, a Norwegian PhD Student at the JKU, and a normal guy from Ecuador, currently emplyed in Linz. We are looking for a fourth person to take a big room that has recently become free.
+We are: an alumnus from the FH-Wels (Automatisierungstechnik, AT), now employed in Linz, a Norwegian PhD Student at the JKU, and a normal guy from Ecuador, currently employed in Linz. We are looking for a fourth person to take a big room that has recently become free.
 
 The apartment has a big balcony (facing south) where we sometimes grill in the summer. We have a big living room where we can sit, watch TV, talk, read. The kitchen is fully equipped with ceramic plates, dishwasher and normal appliances. We have a full bathroom with bathtub, 2 washbasins, a washing machine, and a WC. Additionally there is a second separate "guest WC". All rooms have parquet floor (wooden), except for the kitchen and the entrance (tiles). During the week we both work in Linz and on weekends we might have some friends over or go out to the city, so we have a healthy balance of fun and responsibilities.
 
