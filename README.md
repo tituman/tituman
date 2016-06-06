@@ -39,3 +39,9 @@ If you are interested, please feel free to write us an email: WGgoethe30@gmail.c
 [link-to-this-page](http://tituman.github.io/tituman/) | [link-to-google-maps](https://www.google.at/maps/place/Goethestraße+30,+4020+Linz/@48.297191,14.2964186,19z/data=!3m1!4b1!4m2!3m1!1s0x4773979180a408e9:0x913ad712cf1144b9?hl=en)
 ---|---
 <img src="http://tituman.github.io/tituman/docs/qrcode.png" align="center" height="150"> | <img src="http://tituman.github.io/tituman/docs/qrcode.jpeg" align="left" height="200">
+
+![apartment.pdf](http://tituman.github.io/tituman/images/DSCF0898.JPG)
+![apartment.pdf](http://tituman.github.io/tituman/images/DSCF0899.JPG)
+![apartment.pdf](http://tituman.github.io/tituman/images/DSCF0901.JPG)
+![apartment.pdf](http://tituman.github.io/tituman/images/DSCF0902.JPG)
+![apartment.pdf](http://tituman.github.io/tituman/images/DSCF0906.JPG)
