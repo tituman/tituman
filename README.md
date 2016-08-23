@@ -25,8 +25,9 @@
 [water]: docs/IMG_0686.JPG
 [glass]: docs/IMG_0687.JPG
 
+
 <!--
-# 1 Room (27m<sup>2</sup>) in Linz apartment (165m<sup>2</sup>) for rent
+# 1 Room (27m<sup>2</sup>) in Linz apartment (165m<sup>2</sup>) for ren 
 [apartment.pdf](http://tituman.github.io/tituman/docs/Goetestr30.pdf)
 ![apartment.pdf](http://tituman.github.io/tituman/docs/Goetestr30.png)
 Note: the avalable room is the one marked with 27.16m2, and the room marked "Esszimmer" is also a bedroom.
