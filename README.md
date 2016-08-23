@@ -19,8 +19,8 @@
 ![alt-text][glass]
 
 
-[slow]: (./docs/IMG_0683.JPG)
-[tea]: (docs/IMG_0684.JPG)
+[slow]: ./docs/IMG_0683.JPG
+[tea]: docs/IMG_0684.JPG
 [jug]: (docs/IMG_0685.JPG)
 [water]: (docs/IMG_0686.JPG)
 [glass]: (docs/IMG_0687.JPG)
