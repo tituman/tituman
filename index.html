@@ -66,6 +66,10 @@ color = getRandomColor();
 const PE = main.branch({name:"PE", style:{color: color}})
 	.commit({subject:"TODO: (original genetics)", dotText: "PE", style:{dot:{color: color}}});
 	
+	//melmak
+	color = getRandomColor();
+	const melmak = PE.branch({name:"Melmak", style:{color: color}})
+		.commit({subject:"TODO: (original genetics)", dotText: "Melmak", style:{dot:{color: color}}});
 //B+ x PE
 PE.merge({ branch: BPositive});
 
@@ -74,13 +78,9 @@ PE.merge({ branch: BPositive});
 	const TW = PE.branch({name:"TW", style:{color: color}})
 			.commit({subject:"Tidal Wave B+ x PE", dotText: "TW", style:{dot:{color: color}}});
 
-//melmak
-color = getRandomColor();
-const melmak = main.branch({name:"Melmak", style:{color: color}})
-	.commit({subject:"TODO: (original genetics)", dotText: "Melmak", style:{dot:{color: color}}});
 
 //B+ x PE
-melmak.merge({ branch: PE});
+//melmak.merge({ branch: PE});
 
 
 //KSSS
@@ -100,7 +100,7 @@ const gt = main.branch({name:"Golden Teacher", style:{color: color}})
 		.commit({subject:"derivative? isolation? strain? info?", dotText: "Yimir", style:{dot:{color: color}}});
 
     color = getRandomColor();
-	const mrKrinkle = gt.branch({name:"Mr. Krinkle"})
+	const mrKrinkle = gt.branch({name:"Mr. Krinkle", style:{color: color}})
 			.commit({subject:"derivative? isolation? strain? info?", dotText: "Mr Krinkle", style:{dot:{color: color}}});
 
 		color = getRandomColor();
@@ -256,13 +256,22 @@ OGTAT.merge({ branch: melmak});
 	
 	//gitgraph.import(DATA);
 	function getRandomColor() {
-	var letters = '0123456789ABCDEF'.split('');
-	var color = '#';
-	for (var i = 0; i < 6; i++ ) {
-		color += letters[Math.floor(Math.random() * 16)];
-	}
-	return color;
+		var letters = '0123456789ABCDEF'.split('');
+		var color = '#';
+		for (var i = 0; i < 6; i++ ) {
+			color += letters[Math.floor(Math.random() * 16)];
 		}
+		return color;
+	}
+
+/*
+gitgraph.canvas.addEventListener("graph:render", function(event) {
+  console.log(event.data.id, "has been rendered with a scaling factor of", gitgraph.scalingFactor);
+  rescale();
+});
+*/
+
+
 	(function(){
    ;//console.log(DATA); // {"a" : "b", "c" : "d"}
 })();
