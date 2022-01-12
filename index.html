@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
 <head>
   <!-- Load the JS file -->
   <script src="https://cdn.jsdelivr.net/npm/@gitgraph/js"></script>
@@ -48,213 +49,122 @@
 	);
 
     // Simulate git commands with Gitgraph API.
-var color = getRandomColor();
+	
+
+//function for easy branching
+function branch(source, name, desc, shortName) {
+	var color = getRandomColor();
+	return source.branch({name:name, style:{color: color}})
+	.commit({subject:"Ps cubexsis, unknown OG", dotText: shortName, style:{dot:{color: color}}});
+}
 
 //Main 
 color = getRandomColor();
-const main = gitgraph.branch({name:"main", style:{color: color}})
-	.commit({subject:"Ps cubexsis, unknown OG", dotText: ". OG cube", style:{dot:{color: color}}});
+const main = gitgraph.branch({name:"main", style:{color: color}}).commit({subject:"Ps cubexsis, unknown OG", dotText: ". OG cube", style:{dot:{color: color}}});
 
 //B+
-color = getRandomColor();
-const BPositive = main.branch({name:"B+", style:{color: color}})
-	.commit({
-		subject:"TODO: (original genetics)", dotText: "B+", style:{dot:{color: color}}});
+const BPositive = branch(main, "B+", "TODO: (original genetics)", "B+");
 
 //PE
-color = getRandomColor();
-const PE = main.branch({name:"PE", style:{color: color}})
-	.commit({subject:"TODO: (original genetics)", dotText: "PE", style:{dot:{color: color}}});
+const PE = branch(main, "PE", "TODO: (original genetics)", "PE");
 	
 	//melmak
-	color = getRandomColor();
-	const melmak = PE.branch({name:"Melmak", style:{color: color}})
-		.commit({subject:"TODO: (original genetics)", dotText: "Melmak", style:{dot:{color: color}}});
+	const melmak = branch(PE, "Melmak", "TODO: (original genetics)", "Melmak");
+	
 //B+ x PE
 PE.merge({ branch: BPositive});
 
 	//TW
-	color = getRandomColor();
-	const TW = PE.branch({name:"TW", style:{color: color}})
-			.commit({subject:"Tidal Wave B+ x PE", dotText: "TW", style:{dot:{color: color}}});
-
-
-//B+ x PE
-//melmak.merge({ branch: PE});
-
+	const TW = branch(PE, "TW", "Tidal Wave B+ x PE", "TW");
 
 //KSSS
-color = getRandomColor();
-const ksss = main.branch({name:"Koh Samui Super Strain", style:{color: color}})
-	.commit({subject:"original genetics: ksss", dotText: "KSSS", style:{dot:{color: color}}});
+const ksss = branch(main, "Koh Samui Super Strain", "original genetics: ksss", "KSSS");
 	
 //GT
-color = getRandomColor();
-const gt = main.branch({name:"Golden Teacher", style:{color: color}})
-	.commit({subject:"original genetics: golden teacher", dotText: "GT", style:{dot:{color: color}}});
+const gt = branch(main, "Golden Teacher", "original genetics: golden teacher", "GT");
 	
 	
 	
-    color = getRandomColor();
-	const ymir = gt.branch({name:"Ymir", style:{color: color}})
-		.commit({subject:"derivative? isolation? strain? info?", dotText: "Yimir", style:{dot:{color: color}}});
+    const ymir = branch(gt, "Ymir", "derivative? isolation? strain? info?", "Yimir");
 
-    color = getRandomColor();
-	const mrKrinkle = gt.branch({name:"Mr. Krinkle", style:{color: color}})
-			.commit({subject:"derivative? isolation? strain? info?", dotText: "Mr Krinkle", style:{dot:{color: color}}});
+    const mrKrinkle = branch(gt, "Mr. Krinkle", "derivative? isolation? strain? info?", "Mr Krinkle");
 
-		color = getRandomColor();
-	const chocoK = mrKrinkle.branch({name:"Chocolate Krinkle", style:{color: color}})
-				.commit({subject:"Mr. Krinkle x El Choco", dotText: "Choco Krinkle", style:{dot:{color: color}}});
+		const chocoK = branch(mrKrinkle, "Chocolate Krinkle", "Mr. Krinkle x El Choco", "Choco Krinkle");
 		  
-		color = getRandomColor();
-	const CKBrains = mrKrinkle.branch({name:"CK Brains", style:{color: color}})
-				.commit({subject:"Mr. Krinkle x El Choco", dotText: "CK Brains", style:{dot:{color: color}}});	
+		const CKBrains = branch(mrKrinkle, "CK Brains", "Mr. Krinkle x El Choco", "CK Brains");
 
 	  
-    color = getRandomColor();
-	const leng = gt.branch({name:"Leng", style:{color: color}})
-		.commit({subject:"derivative? isolation? strain? info?", dotText: "Leng", style:{dot:{color: color}}});
+    const leng = branch(gt, "Leng", "derivative? isolation? strain? info?", "Leng");
 
-		color = getRandomColor();
-		const gz = leng.branch({name:"Ground Zero", style:{color: color}})
-			.commit({subject:"Leng x Choda", dotText: "Ground Zero", style:{dot:{color: color}}});
+		const gz = branch(leng, "Ground Zero", "Leng x Choda", "Ground Zero");
 
-    color = getRandomColor();
-		const WTAT = gt.branch({name:"Wombat TAT", style:{color: color}})
-			.commit({subject:"derivative? isolation? strain? info?", dotText: "Wombat TAT", style:{dot:{color: color}}});
+    const WTAT = branch(gt, "Wombat TAT", "derivative? isolation? strain? info?", "Wombat TAT");
 
-		color = getRandomColor();
-		const JF = WTAT.branch({name:"Jack Frost", style:{color: color}})
-				.commit({subject:"(W)TAT x APE", dotText: "Jack Frost", style:{dot:{color: color}}});
+		const JF = branch(WTAT, "Jack Frost", "(W)TAT x APE", "Jack Frost");
 		
-//cross with KSSS
+//cross WTAT with KSSS
 WTAT.merge({ branch: ksss});
 
-		color = getRandomColor();
-		const AKSAT = WTAT.branch({name:"Albino KSAT", style:{color: color}})
-				.commit({subject:"TAT x KSSS", dotText: "Albino KSAT", style:{dot:{color: color}}});
+		const AKSAT = branch(WTAT, "Albino KSAT", "TAT x KSSS", "Albino KSAT");
 
-			color = getRandomColor();
-			GKSAT = AKSAT.branch({name:"Golden KSAT", style:{color: color}})
-				.commit({subject:"TAT x KSSS", dotText: "Golden KSAT", style:{dot:{color: color}}});
+			const GKSAT = branch(AKSAT, "Golden KSAT", "TAT x KSSS", "Golden KSAT");
 
-    color = getRandomColor();
-	const OGTAT = gt.branch({name:"OG TAT", style:{color: color}})
-		.commit({subject:"Albino Mutation", dotText: "OG TAT", style:{dot:{color: color}}});
+    const OGTAT = branch(gt, "OG TAT", "Albino Mutation", "OG TAT");
 		
-		color = getRandomColor();
-		const toad = OGTAT.branch({name:"Toad", style:{color: color}})
-			.commit({subject:"Toad TAT", dotText: "Toad", style:{dot:{color: color}}});
+		const toad = branch(OGTAT, "Toad", "Toad TAT", "Toad");
 
-		color = getRandomColor();
-		const RR = OGTAT.branch({name:"RR", style:{color: color}})
-			.commit({subject:"Leucistic TAT", dotText: "RR L TAT", style:{dot:{color: color}}});
+		const RR = branch(OGTAT, "RR", "Leucistic TAT", "RR L TAT");
 			
-		color = getRandomColor();
-		const Yeti = OGTAT.branch({name:"Yeti", style:{color: color}})
-			.commit({subject:"?", dotText: "Yeti", style:{dot:{color: color}}});
+		const Yeti = branch(OGTAT, "Yeti", "?", "Yeti");
 
-			color = getRandomColor();
-			const nut = Yeti.branch({name:"Nut", style:{color: color}})
-				.commit({subject:"? Nut Cracker", dotText: "Nut", style:{dot:{color: color}}});
+			const nut = branch(Yeti, "Nut", "? Nut Cracker", "Nut");
 				
-			color = getRandomColor();
-			const Yeti2 = Yeti.branch({name:"Yeti2", style:{color: color}})
-				.commit({subject:"?", dotText: "Yeti2", style:{dot:{color: color}}});
+			const Yeti2 = branch(Yeti, "Yeti2", "?", "Yeti2");
 
-				color = getRandomColor();
-				const DE = Yeti2.branch({name:"Deep-End"})
-					.commit({subject:"?", dotText: "DE", style:{dot:{color: color}}});
-
-
-
-		color = getRandomColor();
-		const clockwerk = OGTAT.branch({name:"Clockwerk TAT", style:{color: color}})
-			.commit({subject:"?", dotText: "Clockwerk TAT", style:{dot:{color: color}}});
+				const DE = branch(Yeti2, "Deep-End", "?", "DE");
+				
+		const clockwerk = branch(OGTAT, "Clockwerk TAT", "?", "Clockwerk TAT");
 			
-			color = getRandomColor();
-			const clockwerkO = clockwerk.branch({name:"Clockwerk Orange", style:{color: color}})
-				.commit({subject:"?", dotText: "Clockwerk Orange", style:{dot:{color: color}}});
+			const clockwerkO = branch(clockwerk, "Clockwerk Orange", "?", "Clockwerk Orange");
 
-		color = getRandomColor();
-		const NST = OGTAT.branch({name:"NST", style:{color: color}})
-			.commit({subject:"?", dotText: "NST", style:{dot:{color: color}}});
+		const NST = branch(OGTAT, "NST", "?", "NST");
 			
 
-		color = getRandomColor();
-		const ghost = OGTAT.branch({name:"Ghost", style:{color: color}})
-			.commit({subject:"?", dotText: "Ghost", style:{dot:{color: color}}});
+		const ghost = branch(OGTAT, "Ghost", "?", "Ghost");
 
-			color = getRandomColor();
-			const TBC = ghost.branch({name:"TBC", style:{color: color}})
-				.commit({subject:"TAT Black Cap", dotText: "TBC", style:{dot:{color: color}}});
+			const TBC = branch(ghost, "TBC", "TAT Black Cap", "TBC");
 
-				color = getRandomColor();
-				const harlequin = TBC.branch({name:"Harlequin", style:{color: color}})
-					.commit({subject:"", dotText: "Harlequin", style:{dot:{color: color}}});
+				const harlequin = branch(TBC, "Harlequin", "", "Harlequin");
 					
 //cross with toad (?)
 TBC.merge({ branch: toad});
 
-				color = getRandomColor();
-				const toadBC = TBC.branch({name:"Toad Black Cap", style:{color: color}})
-					.commit({subject:"", dotText: "Toad Black Cap", style:{dot:{color: color}}});
+				const toadBC = branch(TBC, "Toad Black Cap", "", "Toad Black Cap");
 					
 					
 //cross with TW
 OGTAT.merge(TW);
-		color = getRandomColor();
-		const riptide = OGTAT.branch({name:"Riptide", style:{color: color}})
-			.commit({subject:"TAT x TW", dotText: "Riptide", style:{dot:{color: color}}});
+		const riptide = branch(OGTAT, "Riptide", "TAT x TW", "Riptide");
 
-			color = getRandomColor();
-			const ARiptide = riptide.branch({name:"A-Riptide"})
-				.commit({subject:"? Albino Riptide", dotText: "A-Riptide"});
-
+			const ARiptide = branch(riptide, "A-Riptide", "? Albino Riptide", "A-Riptide");
+			
 
 //TAM
 
 //cross with melmak
 OGTAT.merge({ branch: melmak});
 
-		color = getRandomColor();
-		const TAM = OGTAT.branch({name:"TAM", style:{color: color}})
-			.commit({subject:"TAM project TAT x Melmak", dotText: "TAM", style:{dot:{color: color}}});
+		const TAM = branch(OGTAT, "TAM", "TAM project: TAT x Melmak", "TAM");
 
-			color = getRandomColor();
-			const XXX = TAM.branch({name:"XXX", style:{color: color}})
-				.commit({subject:" ", dotText: "XXX", style:{dot:{color: color}}});
-			color = getRandomColor();
-			const PG = TAM.branch({name:"Pearly Gates", style:{color: color}})
-				.commit({subject:" ", dotText: "Pearly Gates", style:{dot:{color: color}}});
-			color = getRandomColor();
-			const gandalf = TAM.branch({name:"Gandalf", style:{color: color}})
-				.commit({subject:" ", dotText: "Gandalf", style:{dot:{color: color}}});
-			color = getRandomColor();
-			const EL = TAM.branch({name:"Eye Like", style:{color: color}})
-				.commit({subject:" ", dotText: "Eye Like", style:{dot:{color: color}}});
-			color = getRandomColor();
-			const MVP = TAM.branch({name:"MVP", style:{color: color}})
-				.commit({subject:" ", dotText: "MVP", style:{dot:{color: color}}});		
-				const AMVP = MVP.branch({name:"AMVP", style:{color: color}})
-					.commit({subject:" ", dotText: "AMVP", style:{dot:{color: color}}});		
-			color = getRandomColor();
-			const EG = TAM.branch({name:"End Game", style:{color: color}})
-				.commit({subject:" ", dotText: "End Game", style:{dot:{color: color}}});
-			color = getRandomColor();
-			const BM = TAM.branch({name:"Blue Moon", style:{color: color}})
-				.commit({subject:" ", dotText: "Blue Moon", style:{dot:{color: color}}});
-				color = getRandomColor();
+			const XXX = branch(TAM, "XXX", " ", "XXX");
+			const PG = branch(TAM, "Pearly Gates", " ", "Pearly Gates");
+			const gandalf = branch(TAM, "Gandalf", " ", "Gandalf");
+			const EL = branch(TAM, "Eye Like", " ", "Eye Like");
+			const MVP = branch(TAM, "MVP", " ", "MVP");
+				const AMVP = branch(MVP, "AMVP", " ", "AMVP");
+			const EG = branch(TAM, "End Game", " ", "End Game");
+			const BM = branch(TAM, "Blue Moon", " ", "Blue Moon");
 
-
-
-
-
-
-    //main.merge(gt).tag("v1.0.0");
-	
-	//gitgraph.import(DATA);
 	function getRandomColor() {
 		var letters = '0123456789ABCDEF'.split('');
 		var color = '#';
@@ -264,16 +174,8 @@ OGTAT.merge({ branch: melmak});
 		return color;
 	}
 
-/*
-gitgraph.canvas.addEventListener("graph:render", function(event) {
-  console.log(event.data.id, "has been rendered with a scaling factor of", gitgraph.scalingFactor);
-  rescale();
-});
-*/
-
-
 	(function(){
-   ;//console.log(DATA); // {"a" : "b", "c" : "d"}
+   ;
 })();
   </script>
 </body>
